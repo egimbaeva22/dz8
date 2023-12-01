@@ -1,0 +1,9 @@
+#colorSquare {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #000;
+}
